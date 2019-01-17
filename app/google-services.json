@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "779040378577",
+    "firebase_url": "https://isfood-6b861.firebaseio.com",
+    "project_id": "isfood-6b861",
+    "storage_bucket": "isfood-6b861.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:779040378577:android:a14e66d7d5aee93f",
+        "android_client_info": {
+          "package_name": "com.godlonton.isfood"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "779040378577-omlm6r10e6gi0jqk0ic693sln5lrifei.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA79HWNx8DW9iR1MfXJirI6R6Juu2K0tFE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
